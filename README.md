@@ -1,19 +1,20 @@
-# Drug Authentication and Registration Portal
+# Drug Authentication & Registration Portal
 
 ## Overview
-The **Drug Authentication and Registration portal** is a solution designed to tackle the growing issue of counterfeit drugs in the marketplace. The platform allows **manufacturers** to securely register their drugs, ensuring their legitimacy, and provides **consumers** with a simple way to verify the authenticity of the drugs they purchase. This is a crucial step toward creating a safer and more reliable pharmaceutical ecosystem.
+A web-based platform to combat counterfeit drugs by enabling manufacturers to securely register drugs and consumers to verify authenticity in real-time. This ensures trust, safety, and transparency in the pharmaceutical market.
 
-## Key Features
-- **Drug Registration**: Manufacturers can register their drugs with detailed information including batch numbers, expiration dates, and verification codes.
-- **Drug Authentication**: Consumers can verify drug authenticity by entering a unique code provided on the product.
-- **Manufacturer Dashboard**: A feature-rich dashboard for manufacturers to manage drug records and view consumer authentication data.
-- **Consumer Profiles**: Consumers can create and manage profiles to store their verification history.
-- **Alerts and Notifications**: Real-time notifications for counterfeit or unverified drugs, ensuring consumers are aware of potentially dangerous products.
+## 🚀 Key Features
+- **Drug Registration**: Manufacturers can register drugs with details such as batch numbers, expiration dates, and unique verification codes.
+- **Drug Authentication**: Consumers verify authenticity by entering a code found on product packaging.
+- **Manufacturer Dashboard**: Manage registered drugs and view verification reports.
+- **Consumer Profiles**: Store authentication history for easy access.
+- **Alerts and Notifications**: Real-time alerts for counterfeit or unverified drugs.
 - **User and Privacy Settings**: Full control over user profiles, privacy settings, and security measures for manufacturers and consumers.
-- **Responsive Design**: Fully responsive interface that works across devices.
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
 
 ## Demo
-You can see the demo of the platform by cloning the repository and following the installation instructions below.
+Live Demo: https://fdis.vercel.app/
+
 
 To run this project locally, you will need:
 - A modern web browser (Chrome, Firefox, Edge, etc.).
@@ -25,15 +26,15 @@ To run this project locally, you will need:
    git clone https://github.com/Ikechukwu-Prince/Hackaton-group2.git
 
 
-## Technology Stack
+## 🛠 Technology Stack
 This platform is built with:
-- **HTML5** for structure and content.
-- **CSS3** for styling with a focus on a **dark blue** theme for a professional look.
-- **JavaScript** for interactivity and core functionality.
-- **Aos** for scroll animations.
-- **Materialize Js** for responsive carousel.
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Styling:** Materialize CSS, Dark Blue Theme
+- **Animations:** AOS (Animate on Scroll)
+- **UI Components:** Materialize Carousel for responsive image display
 
-### Project Structure
+
+### 📂 Project Structure
 All code is contained within a single file for simplicity. Here's an outline of the structure:
 
 __Public_Folder:
