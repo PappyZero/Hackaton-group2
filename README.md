@@ -75,12 +75,13 @@ We welcome contributions from the community to improve this platform. To contrib
 1. Prince
 2. Destiny
 3. Bright
-4. Michelle
-5. Hakeemat
-6. Habib
-7. Farida
-8. Chike
-9. Petra
+4. Majid
+5. Michelle
+6. Hakeemat
+7. Habib
+8. Farida
+9. Chike
+10. Petra
 
 
  # Future Enhancements
