@@ -30,7 +30,7 @@ To run this project locally, you will need:
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Ikechukwu-Prince/Hackaton-group2.git
+   git clone https://github.com/PappyZero/Hackaton-group2
 
 
 ### 📂 Project Structure
